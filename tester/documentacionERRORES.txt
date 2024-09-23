@@ -1,0 +1,3 @@
+se encontro un error en el carrito de compras, el problema principal es que no añade correctamente los productos al carrito, problema dentro de un bucle condicional
+
+

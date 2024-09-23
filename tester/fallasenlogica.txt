@@ -1,0 +1,1 @@
+se encontro una falla en la logica de navegaacion del proyecto 
